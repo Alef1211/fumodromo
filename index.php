@@ -14,7 +14,7 @@
             <img src="assets/logo.png" alt="Parar de Fumar" class="img-fluid mb-4" style="max-width: 200px;">
             <h1 class="display-4 mb-3">Parar de Fumar</h1>
             <p class="lead mb-4">Sua jornada para uma vida mais saudável começa aqui</p>
-            <a href="cadastro.php" class="btn btn-primary btn-lg">
+            <a href="login.php" class="btn btn-primary btn-lg">
                 Começar Jornada
                 <i class="bi bi-arrow-right ms-2"></i>
             </a>
